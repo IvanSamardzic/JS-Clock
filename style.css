@@ -1,0 +1,20 @@
+body {
+    background: #333;
+}
+
+.clock {
+    position: relative;
+    top: 300px;
+    font-size: 4em;
+    text-align: center;
+    margin: 20px auto;
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 20vh;
+}
+
+.clock span {
+    padding: 20px;
+    background: #444;
+    border-radius: 50%;
+}
